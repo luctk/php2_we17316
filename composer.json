@@ -1,0 +1,19 @@
+{
+    "name": "abc/cde",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "luctk",
+            "email": "luctkph26068@fpt.edu.vn"
+        }
+    ],
+    "require": {
+        "phroute/phroute": "^2.2",
+        "illuminate/events": "^10.0",
+        "eftec/bladeone": "^4.8"
+    }
+}
